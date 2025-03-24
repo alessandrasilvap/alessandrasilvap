@@ -21,4 +21,6 @@
   <a href="https://www.linkedin.com/in/alessandra-pereira-377823237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrasilvap&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrasilvap&show_icons=true&theme=radical)](https://github.com/alessandrasilvap/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrasilvap&layout=compact&theme=radical)](https://github.com/alessandrasilvap/github-readme-stats)
